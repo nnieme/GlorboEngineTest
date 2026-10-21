@@ -1,0 +1,3 @@
+[submodule "CaptainGlorboEngine"]
+	path = CaptainGlorboEngine
+	url = http://github.com/nnieme/CaptainGlorboEngine.git
